@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "template": "royal-gateway",
+  "mode": "reference-demo",
+  "content": {
+    "groom": {
+      "firstName": "Rahul",
+      "lastName": "Verma",
+      "fatherName": "Suresh Verma",
+      "motherName": "Anita Verma",
+      "photo": {
+        "$referencePlaceholder": "R"
+      },
+      "about": "Loves cricket, old Bollywood songs, and his mother's rajma chawal.",
+      "instagram": "rahul.verma"
+    },
+    "bride": {
+      "firstName": "Priya",
+      "lastName": "Sharma",
+      "fatherName": "Rakesh Sharma",
+      "motherName": "Sunita Sharma",
+      "photo": {
+        "$referencePlaceholder": "P"
+      },
+      "about": "A classical dancer who never says no to a road trip.",
+      "instagram": "priya.sharma"
+    },
+    "coupleQuote": "Do dil ek jaan, ab shuru hoga naya safar.",
+    "hashtag": "#RahulWedsPriya",
+    "weddingDate": {
+      "$daysFromNow": 45
+    },
+    "weddingTime": "7:00 PM onwards",
+    "events": [
+      {
+        "name": "Haldi",
+        "icon": "🌼",
+        "date": {
+          "$daysFromNow": 42
+        },
+        "time": "10:00 AM",
+        "venueName": "Sharma Residence",
+        "address": "B-12, Green Park, New Delhi",
+        "mapUrl": "https://maps.google.com/?q=Green+Park+New+Delhi",
+        "dressCode": "Yellow",
+        "note": "Family only",
+        "order": 0
+      },
+      {
+        "name": "Mehndi",
+        "icon": "🎨",
+        "date": {
+          "$daysFromNow": 43
+        },
+        "time": "4:00 PM",
+        "venueName": "The Grand Lawns",
+        "address": "Sector 44, Gurugram",
+        "mapUrl": "https://maps.google.com/?q=Sector+44+Gurugram",
+        "dressCode": "Green & Gold",
+        "order": 1
+      },
+      {
+        "name": "Sangeet",
+        "icon": "🎶",
+        "date": {
+          "$daysFromNow": 44
+        },
+        "time": "7:00 PM",
+        "venueName": "The Grand Lawns",
+        "address": "Sector 44, Gurugram",
+        "mapUrl": "https://maps.google.com/?q=Sector+44+Gurugram",
+        "dressCode": "Festive Indo-Western",
+        "order": 2
+      },
+      {
+        "name": "Wedding",
+        "icon": "💍",
+        "date": {
+          "$daysFromNow": 45
+        },
+        "time": "7:00 PM",
+        "venueName": "Shubh Vivah Banquet Hall",
+        "address": "MG Road, Gurugram",
+        "mapUrl": "https://maps.google.com/?q=MG+Road+Gurugram",
+        "lat": 28.4595,
+        "lng": 77.0266,
+        "dressCode": "Traditional Formal",
+        "order": 3
+      },
+      {
+        "name": "Reception",
+        "icon": "🥂",
+        "date": {
+          "$daysFromNow": 46
+        },
+        "time": "8:00 PM",
+        "venueName": "Shubh Vivah Banquet Hall",
+        "address": "MG Road, Gurugram",
+        "dressCode": "Formal",
+        "order": 4
+      }
+    ],
+    "story": [
+      {
+        "title": "We First Met",
+        "date": "2019-03-14",
+        "description": "A mutual friend's birthday party in Delhi — Rahul spilled chai on Priya's dupatta.",
+        "image": {
+          "$referencePlaceholder": "2019"
+        },
+        "order": 0
+      },
+      {
+        "title": "First Trip Together",
+        "date": "2021-06-02",
+        "description": "A weekend in Manali that turned into a week — neither of us wanted to come back.",
+        "image": {
+          "$referencePlaceholder": "2021"
+        },
+        "order": 1
+      },
+      {
+        "title": "The Proposal",
+        "date": "2025-12-25",
+        "description": "On a rooftop in Udaipur, under fairy lights, with both families secretly watching.",
+        "image": {
+          "$referencePlaceholder": "2025"
+        },
+        "order": 2
+      }
+    ],
+    "gallery": [
+      {
+        "url": {
+          "$referencePlaceholder": "01"
+        },
+        "caption": "Engagement day",
+        "order": 0
+      },
+      {
+        "url": {
+          "$referencePlaceholder": "02"
+        },
+        "caption": "Pre-wedding shoot",
+        "order": 1
+      },
+      {
+        "url": {
+          "$referencePlaceholder": "03"
+        },
+        "caption": "With the family",
+        "order": 2
+      },
+      {
+        "url": {
+          "$referencePlaceholder": "04"
+        },
+        "caption": "Haldi prep",
+        "order": 3
+      },
+      {
+        "url": {
+          "$referencePlaceholder": "05"
+        },
+        "caption": "Mehndi art",
+        "order": 4
+      },
+      {
+        "url": {
+          "$referencePlaceholder": "06"
+        },
+        "caption": "Sangeet rehearsal",
+        "order": 5
+      }
+    ],
+    "familyMembers": [
+      {
+        "name": "Suresh Verma",
+        "relation": "Father of the Groom",
+        "side": "groom"
+      },
+      {
+        "name": "Anita Verma",
+        "relation": "Mother of the Groom",
+        "side": "groom"
+      },
+      {
+        "name": "Rohan Verma",
+        "relation": "Brother of the Groom",
+        "side": "groom"
+      },
+      {
+        "name": "Rakesh Sharma",
+        "relation": "Father of the Bride",
+        "side": "bride"
+      },
+      {
+        "name": "Sunita Sharma",
+        "relation": "Mother of the Bride",
+        "side": "bride"
+      },
+      {
+        "name": "Nisha Sharma",
+        "relation": "Sister of the Bride",
+        "side": "bride"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rohan Verma",
+        "phone": "+91 98765 43210",
+        "relation": "Groom's Brother"
+      },
+      {
+        "name": "Nisha Sharma",
+        "phone": "+91 91234 56789",
+        "relation": "Bride's Sister"
+      }
+    ],
+    "theme": {
+      "primaryColor": "#9E141E",
+      "secondaryColor": "#DEA645"
+    },
+    "scratchSection": {
+      "enabled": true,
+      "revealText": "We're Getting Married!",
+      "subText": "Save the date and join us in celebration"
+    }
+  },
+  "settings": {
+    "showRsvp": true,
+    "showWishes": true,
+    "showGallery": true,
+    "showCountdown": true
+  },
+  "wishes": [
+    {
+      "name": "Anjali Mehta",
+      "relation": "Priya's college friend",
+      "message": "So happy for you both! Wishing you a lifetime of love and laughter."
+    },
+    {
+      "name": "Vikram Singh",
+      "relation": "Rahul's cousin",
+      "message": "Finally! Can't wait to dance at your sangeet, bhai."
+    },
+    {
+      "name": "The Kapoor Family",
+      "relation": "Family friends",
+      "message": "May your journey together be as beautiful as your love story."
+    }
+  ]
+}

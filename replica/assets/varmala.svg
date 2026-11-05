@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <g id="flower">
+      <circle cx="0" cy="-3" r="3.5" fill="currentColor"/>
+      <circle cx="3" cy="0" r="3.5" fill="currentColor"/>
+      <circle cx="0" cy="3" r="3.5" fill="currentColor"/>
+      <circle cx="-3" cy="0" r="3.5" fill="currentColor"/>
+      <circle r="2" fill="#e9b747"/>
+    </g>
+  </defs>
+  <path d="M19 10C14 41 16 71 35 85C54 71 56 41 51 10M49 10C44 41 46 71 65 85C84 71 86 41 81 10" stroke="#9c6b20" stroke-width="6"/>
+  <g color="#fff4d4">
+    <use href="#flower" x="18" y="24"/><use href="#flower" x="18" y="45"/><use href="#flower" x="23" y="65"/>
+    <use href="#flower" x="52" y="24"/><use href="#flower" x="52" y="45"/><use href="#flower" x="47" y="65"/>
+    <use href="#flower" x="48" y="24"/><use href="#flower" x="48" y="45"/><use href="#flower" x="53" y="65"/>
+    <use href="#flower" x="82" y="24"/><use href="#flower" x="82" y="45"/><use href="#flower" x="77" y="65"/>
+  </g>
+  <g color="#f06976">
+    <use href="#flower" x="19" y="13"/><use href="#flower" x="17" y="35"/><use href="#flower" x="20" y="55"/><use href="#flower" x="28" y="75"/>
+    <use href="#flower" x="51" y="13"/><use href="#flower" x="53" y="35"/><use href="#flower" x="50" y="55"/><use href="#flower" x="42" y="75"/><use href="#flower" x="35" y="83"/>
+    <use href="#flower" x="49" y="13"/><use href="#flower" x="47" y="35"/><use href="#flower" x="50" y="55"/><use href="#flower" x="58" y="75"/>
+    <use href="#flower" x="81" y="13"/><use href="#flower" x="83" y="35"/><use href="#flower" x="80" y="55"/><use href="#flower" x="72" y="75"/><use href="#flower" x="65" y="83"/>
+  </g>
+  <path d="M32 89L35 96L38 89M62 89L65 96L68 89" fill="#efbd4c"/>
+</svg>

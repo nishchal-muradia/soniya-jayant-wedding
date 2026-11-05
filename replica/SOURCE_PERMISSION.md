@@ -1,0 +1,11 @@
+# Source and permission record
+
+The user confirmed in this project conversation that they have permission to reuse the exact Invitima Royal Gateway template and artwork outside the hosted service, and supplied a screen recording as the visual reference. The supervising implementation agent conveyed that confirmation before the isolated replica was created. This note records that project-specific confirmation; it does not claim that public availability grants a general reuse licence or extend permission to other projects.
+
+The source snapshot was downloaded from `https://invitima.com/template-frame/royal-gateway` and its directly referenced scripts, styles, images and fonts on 2026-10-27. The ending attribution was removed from the prepared invitation at the user's request; the original source and this provenance record are retained. Each source URL, original byte count and SHA-256 digest is recorded in `vendor/source-manifest.json`. No credentials are stored in the project.
+
+The reference preview includes generated demonstration names, venues, family relationships, dates and messages. Those are source sample values, not confirmed information about the user's wedding. The invitation configuration uses the supplied wedding details. The preview source deliberately simulates RSVP and wishes success without sending data, so the prepared site replaces RSVP with a same-origin Google Forms relay and keeps wishes disabled.
+
+Font licence notices are preserved in `vendor/licenses/` and copied into the prepared site for every family declared in the shared source stylesheet: Cormorant Garamond, Cinzel Decorative, Great Vibes, Inter, Jost, Marcellus, Playfair Display, Parisienne, Yatra One, Kalam, Cinzel, Italianno, Tiro Devanagari Hindi and Montserrat. Those notices were obtained from the official Google Fonts repository; their exact URLs and hashes are included in the source manifest. The surrounding template and artwork are retained on the user's confirmed permission basis, not under the font licences.
+
+The private temporary download workspace was `/private/tmp/royal-gateway-reference`. The reproducible source snapshot is now `replica/vendor/`; preparation does not depend on the temporary folder or the live source service.

@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "template": "royal-gateway",
+  "mode": "public-static",
+  "rsvp": {
+    "enabled": true,
+    "endpoint": "/api/rsvp",
+    "googleForm": {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdsZFgAg5ZNllPeVVDdh5mJZLjKN6Z4MAz-JL5bDXeQ_cihmA/viewform",
+      "nameEntry": "entry.318902185",
+      "attendanceEntry": "entry.880028130",
+      "blessingsEntry": "entry.228606542"
+    }
+  },
+  "site": {
+    "title": "Soniya & Jayant | Wedding Invitation",
+    "description": "The Murdiya family joyfully invites you to celebrate the wedding of Soniya and Jayant on 4 December 2026, with festivities from 2–4 December.",
+    "origin": "https://soniya-jayant-wedding.pages.dev",
+    "image": "/templates/royal-gateway/gallery/couple.jpg",
+    "imageWidth": 1088,
+    "imageHeight": 1440,
+    "imageAlt": "Traditional royal wedding illustration"
+  },
+  "content": {
+    "groom": {
+      "firstName": "Jayant",
+      "lastName": "Dhing",
+      "designation": "",
+      "fatherName": "Shri Vinod Kumar Dhing",
+      "motherName": "Smt. Kavita Dhing",
+      "photo": "/portraits/jayant.png",
+      "grandparents": "Grandson of Smt. Pista Bai and Shri Samrath Mal Ji Dhing",
+      "address": "Udaipur, Rajasthan",
+      "photoFocus": "50% 15%",
+      "photoZoom": 1.4,
+      "photoStill": true
+    },
+    "bride": {
+      "firstName": "Soniya",
+      "lastName": "Murdiya",
+      "designation": "",
+      "fatherName": "Shri Dilip Kumar Murdiya",
+      "motherName": "Smt. Rekha Murdiya",
+      "photo": "/portraits/soniya.png",
+      "grandparents": "Granddaughter of Shri Shanti Lal Ji Murdiya and Smt. Shanta Bai Murdiya",
+      "address": "Kanor, Udaipur, Rajasthan",
+      "photoFocus": "50% 0%",
+      "photoZoom": 1.25,
+      "photoStill": true,
+      "photoTranslateYPercent": 0
+    },
+    "coupleQuote": "",
+    "music": {
+      "enabled": true,
+      "src": "/music/jashn-e-bahaaraa-flute.mp3",
+      "title": "Jashn-e-Bahaaraa — Flute",
+      "volume": 0.4,
+      "loop": true,
+      "startOnEntrance": true,
+      "defaultOn": true,
+      "startAtSeconds": 0,
+      "autoPlay": true
+    },
+    "hashtag": "",
+    "weddingDate": "2026-12-04",
+    "celebrationDateLabel": "2–4 December 2026",
+    "weddingTime": "6:00 PM",
+    "events": [
+      {
+        "name": "Ganpati Sthapana",
+        "icon": "🙏",
+        "date": "2026-12-02",
+        "time": "7:30 AM",
+        "venueName": "Dhariwal Stadium",
+        "address": "Kanor, Udaipur, Rajasthan",
+        "mapUrl": "https://maps.app.goo.gl/LK1MQxmR3vVCaHTe9",
+        "dressCode": "",
+        "order": 0
+      },
+      {
+        "name": "Mataji Pujan",
+        "icon": "🪔",
+        "date": "2026-12-02",
+        "time": "10:00 AM",
+        "venueName": "Dhariwal Stadium",
+        "address": "Kanor, Udaipur, Rajasthan",
+        "mapUrl": "https://maps.app.goo.gl/LK1MQxmR3vVCaHTe9",
+        "dressCode": "",
+        "order": 1
+      },
+      {
+        "name": "Kalash",
+        "icon": "🏺",
+        "date": "2026-12-02",
+        "time": "3:00 PM",
+        "venueName": "Dhariwal Stadium",
+        "address": "Kanor, Udaipur, Rajasthan",
+        "mapUrl": "https://maps.app.goo.gl/LK1MQxmR3vVCaHTe9",
+        "dressCode": "",
+        "order": 2
+      },
+      {
+        "name": "Dovda",
+        "icon": "🥁",
+        "date": "2026-12-02",
+        "time": "6:00 PM",
+        "venueName": "Dhariwal Stadium",
+        "address": "Kanor, Udaipur, Rajasthan",
+        "mapUrl": "https://maps.app.goo.gl/LK1MQxmR3vVCaHTe9",
+        "dressCode": "",
+        "order": 3
+      },
+      {
+        "name": "Sangeet Ceremony",
+        "icon": "🎶",
+        "date": "2026-12-03",
+        "time": "7:00 PM",
+        "venueName": "Dhariwal Stadium",
+        "address": "Kanor, Udaipur, Rajasthan",
+        "mapUrl": "https://maps.app.goo.gl/LK1MQxmR3vVCaHTe9",
+        "dressCode": "",
+        "order": 4
+      },
+      {
+        "name": "Mayra",
+        "icon": "🎁",
+        "date": "2026-12-04",
+        "time": "1:00 PM",
+        "venueName": "Dhariwal Stadium",
+        "address": "Kanor, Udaipur, Rajasthan",
+        "mapUrl": "https://maps.app.goo.gl/LK1MQxmR3vVCaHTe9",
+        "dressCode": "",
+        "order": 5
+      },
+      {
+        "name": "Baraat Welcome",
+        "icon": "🐎",
+        "date": "2026-12-04",
+        "time": "6:00 PM",
+        "venueName": "Dhariwal Stadium",
+        "address": "Kanor, Udaipur, Rajasthan",
+        "mapUrl": "https://maps.app.goo.gl/LK1MQxmR3vVCaHTe9",
+        "dressCode": "",
+        "order": 6
+      },
+      {
+        "name": "Panigrahan Sanskar",
+        "icon": "/varmala.svg",
+        "date": "2026-12-04",
+        "time": "Midnight",
+        "venueName": "Dhariwal Stadium",
+        "address": "Kanor, Udaipur, Rajasthan",
+        "mapUrl": "https://maps.app.goo.gl/LK1MQxmR3vVCaHTe9",
+        "dressCode": "",
+        "order": 7,
+        "note": "Wedding",
+        "startsAt": "2026-12-05T00:00:00+05:30"
+      }
+    ],
+    "story": [],
+    "gallery": [],
+    "familyMembers": [],
+    "familyAcknowledgement": {
+      "heading": "With love & blessings",
+      "subtitle": "The Murdiya Family",
+      "groups": [
+        {
+          "label": "Special Requests",
+          "entries": [
+            [
+              "Puran Chand Murdiya",
+              "Saubhagyavati Murdiya"
+            ],
+            [
+              "Karanmal Murdiya",
+              "Manju Devi Murdiya"
+            ],
+            [
+              "Sanyog Murdiya",
+              "Komal Murdiya"
+            ],
+            [
+              "Sulabh Murdiya",
+              "Chirag Murdiya"
+            ]
+          ],
+          "entrySeparators": [
+            "&",
+            "&",
+            "&",
+            ""
+          ]
+        },
+        {
+          "label": "RSVP",
+          "entries": [
+            [
+              "Dilip Murdiya",
+              "Rekha Murdiya"
+            ]
+          ]
+        },
+        {
+          "label": "Address",
+          "entries": [
+            [
+              "Kanor, Udaipur, Rajasthan"
+            ]
+          ]
+        }
+      ]
+    },
+    "contacts": [
+      {
+        "name": "Dilip Murdiya",
+        "relation": "",
+        "phone": "9460943666"
+      },
+      {
+        "name": "Chirag Murdiya",
+        "relation": "",
+        "phone": "7737176657"
+      }
+    ],
+    "theme": {
+      "primaryColor": "#9E141E",
+      "secondaryColor": "#DEA645"
+    },
+    "scratchSection": {
+      "enabled": false,
+      "revealText": "We're Getting Married!",
+      "subText": "Save the date and join us in celebration"
+    },
+    "timeZone": "Asia/Kolkata",
+    "weddingStart": "2026-12-04T18:00:00+05:30",
+    "countdownStart": "2026-12-02T07:30:00+05:30",
+    "invocation": "|| Shri Ganeshaya Namah ||",
+    "invitationText": "With the blessings of Lord Ganesha and our elders, the Murdiya family cordially invites you to celebrate the wedding of our beloved daughter Soniya with Jayant.",
+    "nameOrder": "bride"
+  },
+  "settings": {
+    "showRsvp": true,
+    "showWishes": false,
+    "showGallery": false,
+    "showCountdown": true,
+    "showGuestCount": false
+  },
+  "wishes": []
+}

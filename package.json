@@ -1,0 +1,14 @@
+{
+  "name": "soniya-jayant-wedding",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "node scripts/prepare-replica.mjs && node scripts/serve-replica.mjs --port 4175",
+    "build": "node scripts/build-replica.mjs",
+    "check": "node scripts/check-replica.mjs",
+    "test": "node --test test/*.test.mjs"
+  }
+}

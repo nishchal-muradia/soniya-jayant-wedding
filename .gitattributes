@@ -1,0 +1,2 @@
+# Preserve the verified third-party snapshot byte for byte.
+replica/vendor/** -text

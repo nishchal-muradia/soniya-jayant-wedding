@@ -1,0 +1,637 @@
+{
+  "schemaVersion": 1,
+  "source": "https://invitima.com/template-frame/royal-gateway",
+  "snapshotDate": "2026-10-27",
+  "files": [
+    {
+      "path": "_next/static/chunks/1550-fcf612c6be1b6052.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/1550-fcf612c6be1b6052.js",
+      "bytes": 10465,
+      "sha256": "030cb2ada9505261b714f81339532835d3e3616b5a961c73bb47553fc4d10148"
+    },
+    {
+      "path": "_next/static/chunks/2009-41720d9e7d6e7672.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/2009-41720d9e7d6e7672.js",
+      "bytes": 9420,
+      "sha256": "938545e0175c6ba8bdf434ac8e4d02e20f50a5895a611d04fec2d9126a4fe354"
+    },
+    {
+      "path": "_next/static/chunks/2117-afb113327c1d67c8.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/2117-afb113327c1d67c8.js?dpl=dpl_37WJTfJdtUEv95iE159i8LsixGss",
+      "bytes": 125161,
+      "sha256": "fa1420218a239fbaa410556b13fddc8065a4f2d9577cff2300fe45498d306957"
+    },
+    {
+      "path": "_next/static/chunks/2814.b1816d321351a3d7.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/2814.b1816d321351a3d7.js",
+      "bytes": 5951,
+      "sha256": "d05a2d3f5a4c1d596f293a5496039396f597bf20754ca297998d8e57908dee71"
+    },
+    {
+      "path": "_next/static/chunks/3471-14fb91318a1fa0ba.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/3471-14fb91318a1fa0ba.js",
+      "bytes": 127694,
+      "sha256": "d169a968947384ff104c24a44030890f5d85017bf18c90712b38332d751806d1"
+    },
+    {
+      "path": "_next/static/chunks/3558-eb103990f9f205f6.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/3558-eb103990f9f205f6.js",
+      "bytes": 18652,
+      "sha256": "370f53e97c2ef362d74d1307672738adc585d7d97be44e5dac8d364589ce4b33"
+    },
+    {
+      "path": "_next/static/chunks/3631-5fdc183989e4f7ad.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/3631-5fdc183989e4f7ad.js",
+      "bytes": 130914,
+      "sha256": "c52da0e47897eda9c4f3004097d2664977375ec0b17b398f353d3b35b5ee8cbb"
+    },
+    {
+      "path": "_next/static/chunks/5878-f0d1c7dcb49bb1c8.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/5878-f0d1c7dcb49bb1c8.js",
+      "bytes": 13592,
+      "sha256": "f6fc734dedc1912cb54bd2c420167f27895d07b7118bf5fc8a9cf5083009e9d8"
+    },
+    {
+      "path": "_next/static/chunks/6660-925f357ec57a8038.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/6660-925f357ec57a8038.js",
+      "bytes": 7262,
+      "sha256": "34ab9342ad2510553df312d8c0120bb48df736d2346193dbf0528232f0d69fd3"
+    },
+    {
+      "path": "_next/static/chunks/9235.be987ed43ebdb143.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/9235.be987ed43ebdb143.js",
+      "bytes": 10494,
+      "sha256": "d93037c8c866b5dabf1e5257d4e971b5959c2e052bb5ba1a8aa6c7457d6359ea"
+    },
+    {
+      "path": "_next/static/chunks/9322-759e5fa3db2b25d6.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/9322-759e5fa3db2b25d6.js?dpl=dpl_37WJTfJdtUEv95iE159i8LsixGss",
+      "bytes": 25185,
+      "sha256": "402024e7abd3d39f1f2e1d15c1260b7571cf837999bfadf8788c28428e7bd117"
+    },
+    {
+      "path": "_next/static/chunks/app/template-frame/[slug]/page-1cf24c6d80a54b19.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/app/template-frame/%5Bslug%5D/page-1cf24c6d80a54b19.js?dpl=dpl_37WJTfJdtUEv95iE159i8LsixGss",
+      "bytes": 213,
+      "sha256": "5e8b55dda0a78d5180f1edc202702787d127ddc419df2971135eb3cd961feab1"
+    },
+    {
+      "path": "_next/static/chunks/fd9d1056-184491a00fd09ac7.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/fd9d1056-184491a00fd09ac7.js?dpl=dpl_37WJTfJdtUEv95iE159i8LsixGss",
+      "bytes": 172837,
+      "sha256": "865cad64a44a0c49b5bdadd6c3e9a9a363f6943fb9a70efc1b6292ebab67276f"
+    },
+    {
+      "path": "_next/static/chunks/main-app-351a7b18c7f87dd5.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/main-app-351a7b18c7f87dd5.js?dpl=dpl_37WJTfJdtUEv95iE159i8LsixGss",
+      "bytes": 471,
+      "sha256": "64509f8f78135a64415ace7270166c6976549321f6c136344fd5f500bc664e37"
+    },
+    {
+      "path": "_next/static/chunks/polyfills-42372ed130431b0a.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_37WJTfJdtUEv95iE159i8LsixGss",
+      "bytes": 112594,
+      "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683"
+    },
+    {
+      "path": "_next/static/chunks/webpack-0902174dd482db0a.js",
+      "sourceUrl": "https://invitima.com/_next/static/chunks/webpack-0902174dd482db0a.js?dpl=dpl_37WJTfJdtUEv95iE159i8LsixGss",
+      "bytes": 8622,
+      "sha256": "118fcceeede10b0f8b3b466726a3aac2e9040b6196558d5b0f6992c6970ecc9c"
+    },
+    {
+      "path": "_next/static/css/2b6befddcc338580.css",
+      "sourceUrl": "https://invitima.com/_next/static/css/2b6befddcc338580.css",
+      "bytes": 1972,
+      "sha256": "7fc617b0ba1330e9a0212226a1f6a114e02d1af2888138035e530f993cdc85e3"
+    },
+    {
+      "path": "_next/static/css/6fe8637b95b883b0.css",
+      "sourceUrl": "https://invitima.com/_next/static/css/6fe8637b95b883b0.css?dpl=dpl_37WJTfJdtUEv95iE159i8LsixGss",
+      "bytes": 345879,
+      "sha256": "ec247d0385c7356edd627d41d00e8137bfbe8b94079f7c0f6d922b978eee2e38"
+    },
+    {
+      "path": "_next/static/css/c2a9bd2f81b0a2bb.css",
+      "sourceUrl": "https://invitima.com/_next/static/css/c2a9bd2f81b0a2bb.css?dpl=dpl_37WJTfJdtUEv95iE159i8LsixGss",
+      "bytes": 21659,
+      "sha256": "b4c35aa8ce7e2c43f3b4bf5b3b9d4c9e5378633385f60ec5e39d8b0eaac98ae6"
+    },
+    {
+      "path": "fonts/cinzel-decorative/latin-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/cinzel-decorative/latin-400.woff2",
+      "bytes": 14420,
+      "sha256": "1d446b27182808887ad6ce0e71c94fb38ff52bc4c82e4babe390e3b019a0d5ef"
+    },
+    {
+      "path": "fonts/cinzel-decorative/latin-700.woff2",
+      "sourceUrl": "https://invitima.com/fonts/cinzel-decorative/latin-700.woff2",
+      "bytes": 15428,
+      "sha256": "9f36288a4e7497c602cce217167ec011ee4fc50156f0362abf4576e24ad33763"
+    },
+    {
+      "path": "fonts/cinzel-decorative/latin-900.woff2",
+      "sourceUrl": "https://invitima.com/fonts/cinzel-decorative/latin-900.woff2",
+      "bytes": 14540,
+      "sha256": "180b80977a1dc727db40f8cc682e1e6c5ae524152b85576afcaf08301883d11f"
+    },
+    {
+      "path": "fonts/cinzel-decorative/latin-ext-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/cinzel-decorative/latin-ext-400.woff2",
+      "bytes": 8032,
+      "sha256": "a5838b172cb5b94735daf9932122fe702bd8978dbe8f3ca3b348fa234e90a68f"
+    },
+    {
+      "path": "fonts/cinzel-decorative/latin-ext-700.woff2",
+      "sourceUrl": "https://invitima.com/fonts/cinzel-decorative/latin-ext-700.woff2",
+      "bytes": 8548,
+      "sha256": "5cb06f3b12562038ccbb6cf182cf63e1e5e49461c76403044def5fe03f3c52d0"
+    },
+    {
+      "path": "fonts/cinzel-decorative/latin-ext-900.woff2",
+      "sourceUrl": "https://invitima.com/fonts/cinzel-decorative/latin-ext-900.woff2",
+      "bytes": 8048,
+      "sha256": "7aa7d33e4f6b091f477508a9186d0ca5e623976dad5dff5a13ae235379183bba"
+    },
+    {
+      "path": "fonts/cinzel/latin-ext.woff2",
+      "sourceUrl": "https://invitima.com/fonts/cinzel/latin-ext.woff2",
+      "bytes": 14536,
+      "sha256": "bd11c74f54739723a68677a077d6d562f3e5d09b9bb822eb658ee5314d1a9614"
+    },
+    {
+      "path": "fonts/cinzel/latin.woff2",
+      "sourceUrl": "https://invitima.com/fonts/cinzel/latin.woff2",
+      "bytes": 25888,
+      "sha256": "ef95296c778719c3d658a8284d65078100450948851b9114485ada01d9d3d3f8"
+    },
+    {
+      "path": "fonts/cormorant-garamond/latin-ext.woff2",
+      "sourceUrl": "https://invitima.com/fonts/cormorant-garamond/latin-ext.woff2",
+      "bytes": 33740,
+      "sha256": "9dc38267bdee93a653200ef3c1e8060e3f1399073432c415c683b419d3b50464"
+    },
+    {
+      "path": "fonts/cormorant-garamond/latin.woff2",
+      "sourceUrl": "https://invitima.com/fonts/cormorant-garamond/latin.woff2",
+      "bytes": 37776,
+      "sha256": "5d618c462b7a5b74f442e1548880086af71764d9cc7d35c16ab45353da934621"
+    },
+    {
+      "path": "fonts/great-vibes/latin-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/great-vibes/latin-400.woff2",
+      "bytes": 29596,
+      "sha256": "0237c8316409c1e4c267156adcc6b17a1d5573320efa45b707fe39989ac3874b"
+    },
+    {
+      "path": "fonts/great-vibes/latin-ext-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/great-vibes/latin-ext-400.woff2",
+      "bytes": 46188,
+      "sha256": "9db6e80f3c2cda14250c3ee41e5bf1b68280b95c00a54d994a42e845fb0da7ba"
+    },
+    {
+      "path": "fonts/inter/latin-ext.woff2",
+      "sourceUrl": "https://invitima.com/fonts/inter/latin-ext.woff2",
+      "bytes": 85272,
+      "sha256": "a28eb6d3ccb534ae0c94ca999371df024aab60b08c3c8a5720ee9e32fa0faaa2"
+    },
+    {
+      "path": "fonts/inter/latin.woff2",
+      "sourceUrl": "https://invitima.com/fonts/inter/latin.woff2",
+      "bytes": 48432,
+      "sha256": "c940764593d0fe5d596be327ca7558855e018039fb78509aa21921fd3644c3e4"
+    },
+    {
+      "path": "fonts/italianno/latin-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/italianno/latin-400.woff2",
+      "bytes": 25292,
+      "sha256": "c91c4b8b38b46d7f9f9692ecc7e3be2860a81b74ea0bc37a02b3e6467f90a1cb"
+    },
+    {
+      "path": "fonts/italianno/latin-ext-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/italianno/latin-ext-400.woff2",
+      "bytes": 12412,
+      "sha256": "e2ffec4562d4a81cbe75c25a51ca919f443d2c8f5096a84b81710439c0f16c73"
+    },
+    {
+      "path": "fonts/jost/latin-ext.woff2",
+      "sourceUrl": "https://invitima.com/fonts/jost/latin-ext.woff2",
+      "bytes": 17204,
+      "sha256": "b2a539cd1f2bbf123e66bafa988bbd32249a7ba3335aec377a9fc1b37734b1ed"
+    },
+    {
+      "path": "fonts/jost/latin.woff2",
+      "sourceUrl": "https://invitima.com/fonts/jost/latin.woff2",
+      "bytes": 26588,
+      "sha256": "235d8f8964bfdf105fc0c3e4c77b5e70f31bee1dad611d59318b5f2a5cb64d90"
+    },
+    {
+      "path": "fonts/kalam/devanagari-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/kalam/devanagari-400.woff2",
+      "bytes": 53104,
+      "sha256": "2e8e8d463f7877c5725d45735f52b720a2808bf3b9aebcd50b4b95a588bb763d"
+    },
+    {
+      "path": "fonts/kalam/devanagari-700.woff2",
+      "sourceUrl": "https://invitima.com/fonts/kalam/devanagari-700.woff2",
+      "bytes": 49552,
+      "sha256": "eb63c97e508e38e0ba40b7fb12aa4937b9d9bb3721869fb0a255854b07667f60"
+    },
+    {
+      "path": "fonts/kalam/latin-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/kalam/latin-400.woff2",
+      "bytes": 14040,
+      "sha256": "257f0129d54c60cda0f8856ad1de05e760a219c9365fb19cd50b0cc8fdb2c9d1"
+    },
+    {
+      "path": "fonts/kalam/latin-700.woff2",
+      "sourceUrl": "https://invitima.com/fonts/kalam/latin-700.woff2",
+      "bytes": 13104,
+      "sha256": "c1bc5092263cb16e72fa43621eb116966068950e1b77ffd38fd401dd43ce1120"
+    },
+    {
+      "path": "fonts/kalam/latin-ext-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/kalam/latin-ext-400.woff2",
+      "bytes": 6784,
+      "sha256": "409a1c973bba365895b897c14604383b7e3df4e400f43dfb07af64a77e973232"
+    },
+    {
+      "path": "fonts/kalam/latin-ext-700.woff2",
+      "sourceUrl": "https://invitima.com/fonts/kalam/latin-ext-700.woff2",
+      "bytes": 6236,
+      "sha256": "ece1261539d395aa5e2918bb855e625e9cf42d315965bb9e321d20d7e2651cc7"
+    },
+    {
+      "path": "fonts/marcellus/latin-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/marcellus/latin-400.woff2",
+      "bytes": 14272,
+      "sha256": "be9d4883e7f45ed729a83c255d68ea7329fa84fefe84ce44cf1668792a628c3a"
+    },
+    {
+      "path": "fonts/marcellus/latin-ext-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/marcellus/latin-ext-400.woff2",
+      "bytes": 8660,
+      "sha256": "75505cecfbcb401d3c012ccaca95b7ef39d156fc88c4dff23ab0b867d8e5fe64"
+    },
+    {
+      "path": "fonts/montserrat/latin-ext.woff2",
+      "sourceUrl": "https://invitima.com/fonts/montserrat/latin-ext.woff2",
+      "bytes": 68224,
+      "sha256": "920711de9ae96c18970fa4faca73cd302b93ac5ed57ebeb6bfec2ddeff930082"
+    },
+    {
+      "path": "fonts/montserrat/latin.woff2",
+      "sourceUrl": "https://invitima.com/fonts/montserrat/latin.woff2",
+      "bytes": 35508,
+      "sha256": "6438d7b8ea9c7c3992d5e2fd2afdb1ff948570a3ef0bedae76247b51632960ba"
+    },
+    {
+      "path": "fonts/parisienne/latin-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/parisienne/latin-400.woff2",
+      "bytes": 22332,
+      "sha256": "ff7c6d91efb6866f41cc131d8e84e47876e73a9f2cc3ba9ac48ab950daaabb74"
+    },
+    {
+      "path": "fonts/parisienne/latin-ext-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/parisienne/latin-ext-400.woff2",
+      "bytes": 13972,
+      "sha256": "7c2320baae06aa91062f4260314ffa0bddd8f60d7d97209a9f701c0192e90e27"
+    },
+    {
+      "path": "fonts/playfair-display/latin-ext.woff2",
+      "sourceUrl": "https://invitima.com/fonts/playfair-display/latin-ext.woff2",
+      "bytes": 20980,
+      "sha256": "5628567856d60d714e7a35bcac9e3de08b336d63b12138f61b970990a1ee9547"
+    },
+    {
+      "path": "fonts/playfair-display/latin.woff2",
+      "sourceUrl": "https://invitima.com/fonts/playfair-display/latin.woff2",
+      "bytes": 38460,
+      "sha256": "5d91eb5d522a03081946c44c8ca17c902230dfed5f0f9b5014262135d47b15b2"
+    },
+    {
+      "path": "fonts/tiro-devanagari-hindi/devanagari-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/tiro-devanagari-hindi/devanagari-400.woff2",
+      "bytes": 63604,
+      "sha256": "14a059162826d1ba7dba7e2fc0cce05725612c6295e3ee116d47b435f0b49d82"
+    },
+    {
+      "path": "fonts/tiro-devanagari-hindi/latin-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/tiro-devanagari-hindi/latin-400.woff2",
+      "bytes": 19772,
+      "sha256": "8c8ac731804cb049f504d100a770b3adda1defb4b34c0bdf6f0b293bc0cadaff"
+    },
+    {
+      "path": "fonts/tiro-devanagari-hindi/latin-ext-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/tiro-devanagari-hindi/latin-ext-400.woff2",
+      "bytes": 8932,
+      "sha256": "7d899d61d9f6492892e3f4aabaf787687fc530fe143b2ef4daf9d152efaeea27"
+    },
+    {
+      "path": "fonts/yatra-one/devanagari-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/yatra-one/devanagari-400.woff2",
+      "bytes": 47688,
+      "sha256": "e425fab426064248f9f02128e56d8c6854e7d572954797b2c0d81d1874332a40"
+    },
+    {
+      "path": "fonts/yatra-one/latin-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/yatra-one/latin-400.woff2",
+      "bytes": 10796,
+      "sha256": "e095af3fd97a28ae1d7cc06d492ba66d3c1b0a726cfef611695a1adb65205f87"
+    },
+    {
+      "path": "fonts/yatra-one/latin-ext-400.woff2",
+      "sourceUrl": "https://invitima.com/fonts/yatra-one/latin-ext-400.woff2",
+      "bytes": 5440,
+      "sha256": "13e530b52816da3f8619312f3a392c9008d43b2932486002be4bcfebe13ba83f"
+    },
+    {
+      "path": "frame.html",
+      "sourceUrl": "https://invitima.com/template-frame/royal-gateway",
+      "bytes": 18808,
+      "sha256": "efc3f977ffaefb8e03cfe21311b7b1dfca08f316f874e769e16bf583ca5f8cce"
+    },
+    {
+      "path": "icons/apple-touch-icon.png",
+      "sourceUrl": "https://invitima.com/icons/apple-touch-icon.png",
+      "bytes": 33698,
+      "sha256": "f35df9d22e64444f158fd0a49158e330a79acc28d9070626ed5397da004fed65"
+    },
+    {
+      "path": "icons/icon-192.png",
+      "sourceUrl": "https://invitima.com/icons/icon-192.png",
+      "bytes": 38940,
+      "sha256": "afcef9459b268fb1b62952579a38ad567daf34b55cea15c088a3964848aefe2b"
+    },
+    {
+      "path": "icons/icon-48.png",
+      "sourceUrl": "https://invitima.com/icons/icon-48.png",
+      "bytes": 3704,
+      "sha256": "c203bbe034ecf2dc0ad4898f16842a49c53c9e7d984865e20e7f0a10bc4c2031"
+    },
+    {
+      "path": "icons/icon-512.png",
+      "sourceUrl": "https://invitima.com/icons/icon-512.png",
+      "bytes": 208835,
+      "sha256": "23e79dab9272c41eced25086e7d556d8e021077e203a9e0ddb528dfb2d7971b6"
+    },
+    {
+      "path": "image/Logo.webp",
+      "sourceUrl": "https://invitima.com/image/Logo.webp",
+      "bytes": 152422,
+      "sha256": "cb2bb066551d6c5666729c0996fb6ef06789374ac9b6b37c1bfe60a5e637c3d6"
+    },
+    {
+      "path": "licenses/cinzel-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/cinzel/OFL.txt",
+      "bytes": 4383,
+      "sha256": "f2b3029aba64c378bf0963b62945eee15e564fe4330b934c8f2eb058282b5e83"
+    },
+    {
+      "path": "licenses/cinzeldecorative-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/cinzeldecorative/OFL.txt",
+      "bytes": 4393,
+      "sha256": "1e5d6660366ddcfca4f2fc10e2acfba9fa4d97d40aec80d7dbfd41d730a420ae"
+    },
+    {
+      "path": "licenses/cormorantgaramond-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/OFL.txt",
+      "bytes": 4387,
+      "sha256": "60700d351cac4650c51f3f9db318d2a420f8b45052dba2715eb5fec41f0f6956"
+    },
+    {
+      "path": "licenses/greatvibes-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/greatvibes/OFL.txt",
+      "bytes": 4399,
+      "sha256": "61093a21f5e63dedf54222b3c09997e54c0fe43e3851d21386e02ddcbc246d49"
+    },
+    {
+      "path": "licenses/inter-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/OFL.txt",
+      "bytes": 4377,
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+    },
+    {
+      "path": "licenses/italianno-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/italianno/OFL.txt",
+      "bytes": 4483,
+      "sha256": "bce79721f0203586872bbd7016922baf449980bdd1c44550a821112a3b547185"
+    },
+    {
+      "path": "licenses/jost-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/jost/OFL.txt",
+      "bytes": 4384,
+      "sha256": "1af3438a4d5f0ed2bdbc5751a5a67ebf6d537334161184b7fbb68503ef0ea0c5"
+    },
+    {
+      "path": "licenses/kalam-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/kalam/OFL.txt",
+      "bytes": 4373,
+      "sha256": "f62ef357d3a1c3d27edd35a6e1ba350e8a8d13499797964eeadefbf0b3b15d1f"
+    },
+    {
+      "path": "licenses/marcellus-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/marcellus/OFL.txt",
+      "bytes": 4430,
+      "sha256": "715ba72697e14daa9b29a333545f69bde7c497b9f77d0a2a4c4a5a752d961801"
+    },
+    {
+      "path": "licenses/montserrat-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/OFL.txt",
+      "bytes": 4400,
+      "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e"
+    },
+    {
+      "path": "licenses/parisienne-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/parisienne/OFL.txt",
+      "bytes": 4433,
+      "sha256": "1dd84b611f4bed7f9ff9089e76a96337b187e6f283a4ab33bcb987f844f2c4db"
+    },
+    {
+      "path": "licenses/playfairdisplay-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/playfairdisplay/OFL.txt",
+      "bytes": 4449,
+      "sha256": "566be814f8e96e93dfa16101331557eb6b5467e9e03f627c0910fe93ca12300e"
+    },
+    {
+      "path": "licenses/tirodevanagarihindi-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/tirodevanagarihindi/OFL.txt",
+      "bytes": 4387,
+      "sha256": "2ed6051706542c5d6d96480318152b17900bb6d4dbadb11d7d5d6464d8b3e0dd"
+    },
+    {
+      "path": "licenses/yatraone-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/yatraone/OFL.txt",
+      "bytes": 4438,
+      "sha256": "71e5222c549d85a1403b6e709b4328b81d7b51ba021b8bd20df89550da80c087"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "sourceUrl": "https://invitima.com/manifest.webmanifest",
+      "bytes": 538,
+      "sha256": "10f9891422d6ea888a00033c68190f4d67fff5afb5b4ba9d04f1f5513a673329"
+    },
+    {
+      "path": "og/site.png",
+      "sourceUrl": "https://invitima.com/og/site.png",
+      "bytes": 134635,
+      "sha256": "38b0f6233b6fb7775a9c19bf1a7784c1767e23060bd1048b5b8e56118efe6d40"
+    },
+    {
+      "path": "templates/royal-gateway/blue-mandala.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/blue-mandala.webp",
+      "bytes": 438076,
+      "sha256": "fb92d6e2c2eb0e9ae1962ae3545d9605cf3721c349a7a2cd96edc3d02638851c"
+    },
+    {
+      "path": "templates/royal-gateway/desert-folk-1536.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/desert-folk-1536.webp",
+      "bytes": 453976,
+      "sha256": "92d87e09019bcac880e9f70b2682bf620cd9174dd1e62d8940bd6a8e463875a5"
+    },
+    {
+      "path": "templates/royal-gateway/desert-folk-800.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/desert-folk-800.webp",
+      "bytes": 142670,
+      "sha256": "ded88beaef2c11a2e6cf8c2e2d0c16f66eed204b7ede6dd2843944a69a104507"
+    },
+    {
+      "path": "templates/royal-gateway/desert-folk.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/desert-folk.webp",
+      "bytes": 1091342,
+      "sha256": "99edc1df09c450811352f696384fa257784b006ef2784346b03ef584f13c9db3"
+    },
+    {
+      "path": "templates/royal-gateway/family-man.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/family-man.webp",
+      "bytes": 48218,
+      "sha256": "a0e4b78af225717aba8ea3e93fa66ef1bf5487723f2290ffa48f81c646f972de"
+    },
+    {
+      "path": "templates/royal-gateway/family-woman.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/family-woman.webp",
+      "bytes": 64090,
+      "sha256": "925618e92dfa67e49bf2a9a267718912ea092e6e08a56414858bdbfe4d2be92c"
+    },
+    {
+      "path": "templates/royal-gateway/gallery/couple.jpg",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/gallery/couple.jpg",
+      "bytes": 364239,
+      "sha256": "25589193dac085a2c3084c0fa53f996335e61142d04db282977dd6c71cdb988a"
+    },
+    {
+      "path": "templates/royal-gateway/gallery/courtyard.jpg",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/gallery/courtyard.jpg",
+      "bytes": 308114,
+      "sha256": "d899f46005caedbac4f6450cf1bd68c6aa8817b58a31c1048d151fb48caa2037"
+    },
+    {
+      "path": "templates/royal-gateway/gallery/gate.jpg",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/gallery/gate.jpg",
+      "bytes": 380897,
+      "sha256": "13d62feb6606bd1ff5d4accf3dab9ee7684a784a4dc9bb7a58e4f5df933e2eff"
+    },
+    {
+      "path": "templates/royal-gateway/gallery/haldi.jpg",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/gallery/haldi.jpg",
+      "bytes": 135973,
+      "sha256": "1574a69f2c29cef7095ae1ba1b16e195a199d7af9fd0255c558322d0de936a4d"
+    },
+    {
+      "path": "templates/royal-gateway/gallery/jharokha.jpg",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/gallery/jharokha.jpg",
+      "bytes": 193198,
+      "sha256": "a64ac0d0bc8db8492c0b5cdd861247b7caaf7e6796f51156a9b641d6c61c4d82"
+    },
+    {
+      "path": "templates/royal-gateway/gallery/lake.jpg",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/gallery/lake.jpg",
+      "bytes": 254947,
+      "sha256": "6a96dc2aa0b46c11d260ce8379c153ce79e70d3386d5da95c315d6c5f635ae04"
+    },
+    {
+      "path": "templates/royal-gateway/gallery/mandap.jpg",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/gallery/mandap.jpg",
+      "bytes": 277745,
+      "sha256": "6d3087951439417282c1aa16c4f54645244903127a0dbfcf9de676282687b8ff"
+    },
+    {
+      "path": "templates/royal-gateway/gate/peacock-left.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/gate/peacock-left.webp",
+      "bytes": 15254,
+      "sha256": "e04c4b6b9a5b59489cba9c82d08337c1f91f1871ac905c03284a7d3a595ff4a8"
+    },
+    {
+      "path": "templates/royal-gateway/gate/peacock-opening.png",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/gate/peacock-opening.png",
+      "bytes": 3569,
+      "sha256": "4091cad1c19e5fd6616bb9ba8d876eb1cea9a80cd56ce68dca290d7ca0c0dec9"
+    },
+    {
+      "path": "templates/royal-gateway/gate/peacock-right.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/gate/peacock-right.webp",
+      "bytes": 15064,
+      "sha256": "044c31b8f4deab211bf10e34e26425f840f9abccbb15abaa5b824790f4bf573b"
+    },
+    {
+      "path": "templates/royal-gateway/gate/peacock.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/gate/peacock.webp",
+      "bytes": 701816,
+      "sha256": "c49239fa48d057c00eb6492922c496e67e9ced632db922616adcd8c3c0656458"
+    },
+    {
+      "path": "templates/royal-gateway/grand-palace-1000.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/grand-palace-1000.webp",
+      "bytes": 227562,
+      "sha256": "4941504acd69956813388b67bedfab7e859b994d2c77bf6830f978a355038b92"
+    },
+    {
+      "path": "templates/royal-gateway/grand-palace.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/grand-palace.webp",
+      "bytes": 596862,
+      "sha256": "9bbec5376572c31ff7dbd5dd56f7a5ea8f5bc8dab341e826c13e0cb5c68a565f"
+    },
+    {
+      "path": "templates/royal-gateway/hero-sky-1920.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/hero-sky-1920.webp",
+      "bytes": 142728,
+      "sha256": "2cb6449b86b7aeb0b6147a9cb097f31cf22a9d9e2bccc7bcb877718bfbde82aa"
+    },
+    {
+      "path": "templates/royal-gateway/hero-sky.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/hero-sky.webp",
+      "bytes": 365260,
+      "sha256": "6f028ce57fcf1a30bfea570cc053dc2fdc8a942d5bbe51d88950c375186847ce"
+    },
+    {
+      "path": "templates/royal-gateway/jewel-rosette.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/jewel-rosette.webp",
+      "bytes": 654288,
+      "sha256": "a0744928e8aa1212fe490789bb71266f8d85cbe1cac6d81b1c141158d56089e7"
+    },
+    {
+      "path": "templates/royal-gateway/scroll/body.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/scroll/body.webp",
+      "bytes": 150142,
+      "sha256": "08973e5351eef8dd382c33b3199b8ae2efb4bcff1440b5a46cb973079ad2db1f"
+    },
+    {
+      "path": "templates/royal-gateway/scroll/bottom.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/scroll/bottom.webp",
+      "bytes": 70770,
+      "sha256": "070f0360d79880acbe3b260bf5ccf90e64df2a2621396a2043624ca9b616284f"
+    },
+    {
+      "path": "templates/royal-gateway/scroll/top.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/scroll/top.webp",
+      "bytes": 101194,
+      "sha256": "cde8e5af6446955b1b8b45a28f7eb103206e2745682918ee4d8f43af4c9bc0da"
+    },
+    {
+      "path": "templates/royal-gateway/timeline-car.webp",
+      "sourceUrl": "https://invitima.com/templates/royal-gateway/timeline-car.webp",
+      "bytes": 164618,
+      "sha256": "dd82537ed23991d6784cb8d39c990cc4b32ae911db735f7ba596bc3c23245271"
+    }
+  ]
+}
